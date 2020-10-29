@@ -1,0 +1,14 @@
+{
+  "name": "first-nodejs",
+  "version": "1.0.0",
+  "description": "First NodeJs Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thais Cristine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
